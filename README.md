@@ -9,5 +9,5 @@ This is my first git tutorial
  <br>
  specialization:- Data Science
  <br>
- B.tech(CSE) from Maharishi Markandeshwar (Deemed to University) , Mullana , Ambala (Haryana)
+ B.tech(CSE) from Maharishi Markandeshwar (Deemed to be University) , Mullana , Ambala (Haryana)
 
